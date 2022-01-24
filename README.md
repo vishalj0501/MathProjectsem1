@@ -1,2 +1,2 @@
 # MathProjectsem1
-First Sem project in Linear Regression
+First Sem project on Linear Regression
